@@ -35,7 +35,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DvineConqueror&show_icons=true&theme=tokyonight" alt="DvineConqueror's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DvineConqueror&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
