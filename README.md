@@ -23,16 +23,6 @@
 
 ---
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
----
-
 ### 💡 A Little More About Me:
 - 🔭 I’m currently working on **Flutter apps and backend tools**
 - 🌱 Constantly learning about **full-stack development**
