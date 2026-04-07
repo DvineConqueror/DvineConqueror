@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Developer | 🇵🇭 Philippines
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+scalable+applications;React+%2F+Next.js+%7C+Flutter+%7C+Django;Clean+code+%2B+Real-world+solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&color=00FF7F&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;React+%2F+Next.js+%7C+Flutter+%7C+Django;Clean+Code+%2B+Real+World+Solutions" />
 
 <br/>
 
