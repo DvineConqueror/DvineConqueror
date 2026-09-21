@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Henry Dominic Alicoben
+#    Hi, I'm Henry Dominic Alicoben
 
-### 💻 Full-Stack Developer | 🇵🇭 Philippines
+###    Full-Stack Developer | 🇵🇭 Philippines
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&color=00FF7F&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;React+%2F+Next.js+%7C+Flutter+%7C+Django;Clean+Code+%2B+Real+World+Solutions" />
 
@@ -15,16 +15,16 @@
 
 ---
 
-## 🧠 About Me
+##    About Me
 
-* 🚀 Full-stack developer focused on building scalable, user-centric apps
-* 📱 Specializing in modern web & mobile development
-* 🎯 Goal: Become a high-impact software engineer
-* ☕ Fueled by coffee and clean architecture
+*    Full-stack developer focused on building scalable, user-centric apps
+*    Specializing in modern web & mobile development
+*    Goal: Become a high-impact software engineer
+*    Fueled by coffee and clean architecture
 
 ---
 
-## 🚀 Current Stack
+##    Current Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,django,mongodb&theme=dark" />
@@ -32,9 +32,9 @@
 
 ---
 
-## 🧩 Technical Skills
+##    Technical Skills
 
-### 💻 Languages
+###   Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+###   Databases
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Platforms
+###   Tools & Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -87,7 +87,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##   GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DvineConqueror&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -115,7 +115,7 @@
 
 <div align="center">
 
-### 💡 Developer Philosophy
+###   Developer Philosophy
 
 *"Code is like humor. When you have to explain it, it's bad."*
 — Cory House
